@@ -94,7 +94,7 @@ Here are some of my notable projects:
 - 📡 [**Project 2**](https://github.com/Brian-Zavala/NASA) - NASA Data Visualizer.  
 - 📊 [**Project 3**](https://github.com/Brian-Zavala/A.I-Web-Scraper) - Groq A.I Web Scraper.  
 
-> **💡 Explore my repositories and contribute!**  
+> **Explore my repositories and contribute!**  
 > Let's build something amazing together! ❤️‍🔥
 
 ---
