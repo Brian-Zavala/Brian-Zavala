@@ -83,8 +83,8 @@
 
 Here are some of my notable projects:  
 
-- 🚀 [**Project 1**](https://github.com/Brian-Zavala/project1) - Description of project 1.  
-- 📡 [**Project 2**](https://github.com/Brian-Zavala/project2) - Description of project 2.  
+- 🚀 [**Project 1**](https://github.com/Brian-Zavala/magic-munchies) - Description of project 1.  
+- 📡 [**Project 2**](https://github.com/Brian-Zavala/NASA) - Description of project 2.  
 - 📊 [**Project 3**](https://github.com/Brian-Zavala/project3) - Description of project 3.  
 
 > **💡 Explore my repositories and contribute!**  
