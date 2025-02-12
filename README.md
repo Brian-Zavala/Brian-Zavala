@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Zavala</h1>
-<h3 align="center">A Programmer and Tester from the United States</h3>
+<h3 align="center">A programmer and tester from the United States</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Tester;A.I+Enthusiast" />
