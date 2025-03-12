@@ -90,7 +90,7 @@
 
 Here are some of my notable projects:  
 
-- 🚀 [**Project 1**](https://github.com/Brian-Zavala/magic-munchies) - Local Food Business Project.  
+- 🚀 [**Project 1**](https://github.com/Brian-Zavala/magic-munchies) - Local Website
 - 📡 [**Project 2**](https://github.com/Brian-Zavala/NASA) - NASA Data Visualizer.  
 - 📊 [**Project 3**](https://github.com/Brian-Zavala/A.I-Web-Scraper) - Groq A.I Web Scraper.  
 
