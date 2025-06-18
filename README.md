@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brian Zavala</h1>
-<h3 align="center">A programmer and tester from the United States</h3>
+<h3 align="center">A programmer crafting code in the U.S.A</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Tester;A.I+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Tester;A.I+Explorer;Creative+Technologist" />
 </p>
 
 <p align="center">
@@ -17,48 +17,51 @@
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on various **open-source projects** and always looking for new challenges.  
-- 🌱 I’m continuously learning new technologies and improving my skills. **Currently diving deep into AI.**  
-- 💬 Ask me about **web development, software testing, and DevOps.**  
-- 📫 Reach me at: [brian.zavala](mailto:brian.zavala25@proton.me)  
-- ⚡ **Fun fact:** I'm a musician and love exploring **conspiracy theories & world events.**  
+- 🔧 Actively contributing to **open-source projects** and building creative, real-world tools.  
+- 🌱 Deep-diving into **AI**, **automation**, and the **practical applications of machine learning**.  
+- 💬 Ask me about **web development, data pipelines, or scraping weird things from the internet**.  
+- 📫 Reach me: [brian.zavala25@proton.me](mailto:brian.zavala25@proton.me)  
+- ⚡ Fun fact: I'm a **musician** who’s into **conspiracy theories** and global mysteries 🛸 
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Tech Stack
 
-### **Programming Languages**  
+### 🧠 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-### **Web Development**  
+### 🌐 Web Development  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 
-### **Databases & Cloud**  
+### ☁️ Databases & Cloud  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
-### **Testing Tools**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)  
-
-### **DevOps & Tools**  
+### 🔄 DevOps & CI/CD  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+### 🧪 Testing & Automation  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+### 🔎 APIs & Data  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
 ---
 
@@ -82,21 +85,13 @@
 ## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-zavala25)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brian-Zavala)  
 
 ---
 
-## 📂 Projects  
+## 🚀 Featured Projects  
 
-Here are some of my notable projects:  
+- 🍔 [**Magic Munchies**](https://github.com/Brian-Zavala/magic-munchies) – Local discovery web app.  
+- 🛰️ [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
+- 🕸️ [**Groq AI Web Scraper**](https://github.com/Brian-Zavala/A.I-Web-Scraper) – Scans, scrapes, and analyzes with AI.  
 
-- 🚀 [**Project 1**](https://github.com/Brian-Zavala/magic-munchies) - Local Website
-- 📡 [**Project 2**](https://github.com/Brian-Zavala/NASA) - NASA Data Visualizer.  
-- 📊 [**Project 3**](https://github.com/Brian-Zavala/A.I-Web-Scraper) - Groq A.I Web Scraper.  
-
-> **Explore my repositories and contribute!**  
-> Let's build something amazing together! ❤️‍🔥
-
----
-
-⭐️ From [Brian-Zavala](https://github.com/Brian-Zavala)
+> Dive into my repositories — I’m always building something new.
