@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Zavala</h1>
+# <h1 align="center">Hi 👋, I'm Brian Zavala</h1>
 <h3 align="center">A programmer crafting code in the U.S.A</h3>
 
 <p align="center">
@@ -15,13 +15,62 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+### 📈 Overall Statistics
+  
+<a href="https://github.com/Brian-Zavala">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian-Zavala&theme=radical&hide_border=false" />
+</p>
+
+### 📊 Detailed Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brian-Zavala&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brian-Zavala&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brian-Zavala&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brian-Zavala&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brian-Zavala&theme=radical&utcOffset=-6" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brian-Zavala&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Zavala&theme=redical&hide_border=false&area=true" />
+</p>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me  
 
 - 🔧 Actively contributing to **open-source projects** and building creative, real-world tools.  
 - 🌱 Deep-diving into **AI**, **automation**, and the **practical applications of machine learning**.  
 - 💬 Ask me about **web development, data pipelines, or scraping weird things from the internet**.  
 - 📫 Reach me: [brian.zavala25@proton.me](mailto:brian.zavala25@proton.me)  
-- ⚡ Fun fact: I'm a **musician** who’s into **conspiracy theories** and global mysteries 🛸 
+- ⚡ Fun fact: I'm a **musician** who's into **conspiracy theories** and global mysteries 🛸 
 
 ---
 
@@ -65,23 +114,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Brian-Zavala&theme=radical" width="48%" />
-</p>
-
----
-
-## 📊 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-zavala25)  
@@ -94,4 +126,46 @@
 - 🛰️ [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
 - 🕸️ [**Groq AI Web Scraper**](https://github.com/Brian-Zavala/A.I-Web-Scraper) – Scans, scrapes, and analyzes with AI.  
 
-> Dive into my repositories — I’m always building something new.
+> Dive into my repositories — I'm always building something new.
+
+---
+
+## 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!-- This section will be automatically updated by WakaTime if you set up the GitHub Action -->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+graph LR
+    A[Learning] --> B[Advanced AI/ML]
+    A --> C[Cloud Architecture]
+    A --> D[System Design]
+    B --> E[Building AI-Powered Tools]
+    C --> F[Scalable Applications]
+    D --> G[Open Source Contributions]
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
+</p>
+
+<!-- 
+Note: The analytics above include both public and private repository data where available.
+The following services are used to gather comprehensive statistics:
+- GitHub Readme Stats (includes count_private=true parameter)
+- GitHub Profile Summary Cards (includes private commits)
+- GitHub Readme Streak Stats
+- GitHub Profile Trophy
+
+To ensure private repository data is included:
+1. When deploying your own instance of github-readme-stats, make sure to set up a Personal Access Token with repo scope
+2. Use the count_private=true parameter in the API calls
+3. For WakaTime integration, connect your GitHub account to WakaTime for detailed coding statistics
+-->
