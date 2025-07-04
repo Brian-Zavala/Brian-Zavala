@@ -23,8 +23,11 @@
   
 <a href="https://github.com/Brian-Zavala">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true&hide=html,css"/>
 </a>
+
+<!-- Alternative: Use your own Vercel deployment -->
+<!-- <img height="180em" src="https://github-readme-stats-YOUR-USERNAME.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true&hide=html,css"/> -->
 
 ### 🔥 Contribution Streak
 
@@ -168,4 +171,15 @@ To ensure private repository data is included:
 1. When deploying your own instance of github-readme-stats, make sure to set up a Personal Access Token with repo scope
 2. Use the count_private=true parameter in the API calls
 3. For WakaTime integration, connect your GitHub account to WakaTime for detailed coding statistics
+
+🔧 PRIVATE REPO LANGUAGE DATA:
+If the Top Languages card isn't showing private repo languages, you can:
+1. Fork github-readme-stats: https://github.com/anuraghazra/github-readme-stats
+2. Deploy to Vercel with your Personal Access Token (PAT)
+3. Create a PAT with 'repo' scope at: https://github.com/settings/tokens
+4. Add PAT as environment variable in Vercel
+5. Replace the stats URL with your own deployment URL
+
+Alternative: Use GitHub Profile Summary Cards which better handles private repo data:
+The language cards in the "Detailed Analytics" section include private repository data by default.
 -->
