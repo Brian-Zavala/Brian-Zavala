@@ -133,7 +133,7 @@
 
 ---
 
-## 📊 WakaTime Stats
+<!--## 📊 WakaTime Stats-->
 
 <!--START_SECTION:waka-->
 <!-- This section will be automatically updated by WakaTime if you set up the GitHub Action -->
@@ -159,27 +159,3 @@ graph LR
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
 </p>
 
-<!-- 
-Note: The analytics above include both public and private repository data where available.
-The following services are used to gather comprehensive statistics:
-- GitHub Readme Stats (includes count_private=true parameter)
-- GitHub Profile Summary Cards (includes private commits)
-- GitHub Readme Streak Stats
-- GitHub Profile Trophy
-
-To ensure private repository data is included:
-1. When deploying your own instance of github-readme-stats, make sure to set up a Personal Access Token with repo scope
-2. Use the count_private=true parameter in the API calls
-3. For WakaTime integration, connect your GitHub account to WakaTime for detailed coding statistics
-
-🔧 PRIVATE REPO LANGUAGE DATA:
-If the Top Languages card isn't showing private repo languages, you can:
-1. Fork github-readme-stats: https://github.com/anuraghazra/github-readme-stats
-2. Deploy to Vercel with your Personal Access Token (PAT)
-3. Create a PAT with 'repo' scope at: https://github.com/settings/tokens
-4. Add PAT as environment variable in Vercel
-5. Replace the stats URL with your own deployment URL
-
-Alternative: Use GitHub Profile Summary Cards which better handles private repo data:
-The language cards in the "Detailed Analytics" section include private repository data by default.
--->
