@@ -15,11 +15,17 @@
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Projects  
+
+- [**Magic Munchies**](https://github.com/Brian-Zavala/magic-munchies) – Local Treat Company.  
+- [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
+- [**Flappy Bird Remix**](https://brian-zavala.github.io/flappy-bird-python/) – Flappy bird remix for my kids.  
+
+## GitHub Analytics
 
 <div align="center">
   
-### 📈 Overall Statistics
+### Overall Statistics
   
 <a href="https://github.com/Brian-Zavala">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -35,7 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian-Zavala&theme=radical&hide_border=false" />
 </p>
 
-### 📊 Detailed Analytics
+###  Detailed Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brian-Zavala&theme=radical" />
@@ -51,13 +57,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brian-Zavala&theme=radical&utcOffset=-6" />
 </p>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Brian-Zavala&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Zavala&theme=redical&hide_border=false&area=true" />
@@ -67,24 +73,23 @@
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 
-- 🔧 Actively contributing to **open-source projects** and building creative, real-world tools.  
-- 🌱 Deep-diving into **AI**, **automation**, and the **practical applications of machine learning**.  
-- 💬 Ask me about **web development, data pipelines, or scraping weird things from the internet**.  
-- 📫 Reach me: [brian.zavala25@proton.me](mailto:brian.zavala25@proton.me)  
-- ⚡ Fun fact: I'm a **musician** who's into **conspiracy theories** and global mysteries 🛸 
+- Actively building creative, real-world tools.  
+- Deep-diving into **AI**, **web-development**, and the **practical applications of machine learning**.   
+- Reach me: [brian.zavala25@proton.me](mailto:brian.zavala25@proton.me)  
+- Fun fact: I'm a **musician** who's into **conspiracy theories** and unsolved mysteries. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🧠 Programming Languages  
+### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-### 🌐 Web Development  
+### Web Development  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
@@ -92,58 +97,26 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 
-### ☁️ Databases & Cloud  
+### Databases & Cloud  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
-### 🔄 DevOps & CI/CD  
+### DevOps & CI/CD  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
-### 🧪 Testing & Automation  
+### Testing & Automation  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
-## 🔗 Connect with Me  
+## Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-zavala25)  
-
----
-
-## 🚀 Featured Projects  
-
-- 🍔 [**Magic Munchies**](https://github.com/Brian-Zavala/magic-munchies) – Local Treat Company.  
-- 🛰️ [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
-- 🕸️ [**Flappy Bird Remix**](https://brian-zavala.github.io/flappy-bird-python/) – Flappy bird remix for my kids.  
-
-> Dive into my repositories — I'm always building something new.
-
----
-
-<!--## 📊 WakaTime Stats-->
-
-<!--START_SECTION:waka-->
-<!-- This section will be automatically updated by WakaTime if you set up the GitHub Action -->
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[Learning] --> B[Advanced AI/ML]
-    A --> C[Cloud Architecture]
-    A --> D[System Design]
-    B --> E[Building AI-Powered Tools]
-    C --> F[Scalable Applications]
-    D --> G[Open Source Contributions]
-```
 
 ---
 
