@@ -119,7 +119,7 @@
 
 - 🍔 [**Magic Munchies**](https://github.com/Brian-Zavala/magic-munchies) – Local discovery web app.  
 - 🛰️ [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
-- 🕸️ [**Flappy Bird Remix**]([https://brian-zavala.github.io/flappy-bird-python/)]) – Flappy bird for my kids.  
+- 🕸️ [**Flappy Bird Remix**](https://brian-zavala.github.io/flappy-bird-python/) – Flappy bird remix for my kids.  
 
 > Dive into my repositories — I'm always building something new.
 
