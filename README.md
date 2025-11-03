@@ -57,11 +57,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brian-Zavala&theme=radical&utcOffset=-6" />
 </p>
 
-### GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brian-Zavala&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
-</p>
 
 ### Contribution Graph
 
