@@ -1,8 +1,7 @@
-# <h1 align="center">Brian Zavala</h1>
-<h3 align="center">Coding in the U.S.A</h3>
+<h3 align="center">Hi my tech people, i'm Brian a software engineer from Texas. I'm attending SNHU, while building my skills and building various projects. More info below!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Engineer;" />
 </p>
 
 <p align="center">
