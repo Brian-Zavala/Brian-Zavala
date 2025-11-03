@@ -19,7 +19,7 @@
 
 - [**Magic Munchies**](https://github.com/Brian-Zavala/magic-munchies) – Local Treat Company.  
 - [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
-- [**Flappy Bird Remix**](https://brian-zavala.github.io/flappy-bird-python/) – Flappy bird remix for my kids.  
+- [**Flappy Bird Remix**](https://brian-zavala.github.io/flappy-bird-python/) – Flappy bird remix.  
 
 ## GitHub Analytics
 
