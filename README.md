@@ -2,7 +2,7 @@
 <h3 align="center">A programmer in the U.S.A</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Tester;A.I+Explorer;Creative+Technologist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Developer" />
 </p>
 
 <p align="center">
