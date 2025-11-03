@@ -1,10 +1,16 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Python+Teacher;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+<h2 align="center">Hi my tech people, I'm Brian!</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=400&lines=Software+Engineer;Full+Stack+Developer;Python+Teacher" alt="Typing SVG" />
+   Part-time Python teacher at Varsity Tutors<br/>
+   Full-time merchandiser for SGWS<br/>
+   Attending SNHU full-time for Computer Science<br/>
+   Building soft skills and various projects<br/>
+   Based in Texas
 </p>
-
-### Hi my tech people, i'm Brian a Software Engineer from Texas. 
-
-I'm a part-time python teacher at varsity tutors and a full-time merchandiser for SGWS. I'm attending SNHU full-time for C.S, while building my soft skills and building various projects. More info below!
 
 ## Small Projects  
 
