@@ -1,4 +1,4 @@
-# <h1 align="center">I'm Brian Zavala</h1>
+# <h1 align="center">Brian Zavala</h1>
 <h3 align="center">A programmer in the U.S.A</h3>
 
 <p align="center">
