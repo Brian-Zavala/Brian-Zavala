@@ -1,20 +1,12 @@
-<h3 align="center">Hi my tech people, i'm Brian a software engineer from Texas. I'm attending SNHU, while building my skills and building various projects. More info below!</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=435&lines=Software+Engineer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=400&lines=Software+Engineer;Full+Stack+Developer;Python+Teacher" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/03/26/09/06/09-06-58-457_512.gif" width="300px" />
-</p>
+### Hi my tech people, i'm Brian a Software Engineer from Texas. 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brian-Zavala&label=Profile%20Views&color=6CC644&style=flat" alt="Profile Views" />
-</p>
+I'm a part-time python teacher at varsity tutors and a full-time merchandiser for SGWS. I'm attending SNHU full-time for C.S, while building my soft skills and building various projects. More info below!
 
----
-
-## Featured Projects  
+## Small Projects  
 
 - [**Magic Munchies**](https://github.com/Brian-Zavala/magic-munchies) – Local Treat Company.  
 - [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
