@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   </p>
 
-  <h3>Infrastructure</h3>
+  <h3>Backend & Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -54,11 +54,11 @@
 
   <br>
 
-  <h2>Activity</h2>
+<h2>Activity</h2>
   <p>
     <a href="https://github.com/Brian-Zavala">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
     </a>
   </p>
 
