@@ -1,119 +1,74 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CC644&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Python+Teacher;" alt="Typing SVG" />
-</div>
+  <h1>Brian Zavala</h1>
+  <h3>Full-Stack Engineer | Arch Linux</h3>
+  <p>
+    Building high-performance web applications with <b>React 19</b>, <b>Next.js</b>, and <b>WebAssembly</b>.
+    <br>Focusing on privacy-first tools and efficient architecture.
+  </p>
 
-<h2 align="center">Hi my tech people, I'm Brian!</h2>
+  <br>
 
-<p align="center">
-   Part-time Python teacher at Varsity Tutors<br/>
-   Full-time merchandiser for SGWS<br/>
-   Attending SNHU full-time for Computer Science<br/>
-   Building soft skills and various projects<br/>
-   Based in Texas
-</p>
+  <h2>Meme-Creator.app</h2>
+  <b>Creator & Lead Dev</b>
+  <br>
+  A progressive web app for digital media creation powered by client-side AI.
+  <br><br>
+  <a href="https://meme-creator.app">
+    <img src="https://img.shields.io/badge/Visit_App-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
+  </a>
+  <br><br>
+  <code>ONNX Runtime</code> • <code>Web Workers</code> • <code>React 19</code> • <code>Tailwind v4</code>
+  <br>
+  <b>300+ Users</b> • <b>8m+ Avg Session</b> • <b>12% Bounce Rate</b>
 
-## Small Projects  
+  <br><br>
 
-- [**Magic Munchies**](https://github.com/Brian-Zavala/magic-munchies) – Local Treat Company.  
-- [**NASA Visualizer**](https://github.com/Brian-Zavala/NASA) – Explore live NASA data.  
-- [**Flappy Bird Remix**](https://brian-zavala.github.io/flappy-bird-python/) – Flappy bird remix.  
-
-## GitHub Analytics
-
-<div align="center">
+  <h2>Technologies</h2>
   
-### Overall Statistics
-  
-<a href="https://github.com/Brian-Zavala">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true&hide=html,css"/>
-</a>
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite_7-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+    <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+  </p>
 
-<!-- Alternative: Use your own Vercel deployment -->
-<!-- <img height="180em" src="https://github-readme-stats-YOUR-USERNAME.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true&hide=html,css"/> -->
+  <h3>Infrastructure</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  </p>
 
-### 🔥 Contribution Streak
+  <h3>Performance & AI</h3>
+  <p>
+    <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+    <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian-Zavala&theme=radical&hide_border=false" />
-</p>
+  <br>
 
-###  Detailed Analytics
+  <h2>Activity</h2>
+  <p>
+    <a href="https://github.com/Brian-Zavala">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brian-Zavala&theme=radical" />
-</p>
+  <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brian-Zavala&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brian-Zavala&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brian-Zavala&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brian-Zavala&theme=radical&utcOffset=-6" />
-</p>
-
-
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Zavala&theme=redical&hide_border=false&area=true" />
-</p>
-
+  <p>
+    <b>System:</b> Arch Linux + Hyprland
+    <br>
+    <a href="https://github.com/Brian-Zavala/dotfiles">
+      <img src="https://img.shields.io/badge/Dotfiles-2e3440?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
-
----
-
-##  About Me  
-
-- Actively building creative, real-world tools.  
-- Deep-diving into **AI**, **web-development**, and the **practical applications of machine learning**.   
-- Reach me: [brian.zavala25@proton.me](mailto:brian.zavala25@proton.me)  
-- Fun fact: I'm a **musician** who's into **conspiracy theories** and unsolved mysteries. 
-
----
-
-## Tech Stack
-
-### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-
-### Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-
-### Databases & Cloud  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-### DevOps & CI/CD  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-
-### Testing & Automation  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
----
-
-## Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-zavala25)  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
-</p>
-
