@@ -57,7 +57,7 @@
 <h2>Activity</h2>
   <p>
     <a href="https://github.com/Brian-Zavala">
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" />
       <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
     </a>
   </p>
