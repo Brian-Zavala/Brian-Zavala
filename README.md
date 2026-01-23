@@ -1,17 +1,18 @@
 <div align="center">
   <h1>Brian Zavala</h1>
-  <h3>Full-Stack Engineer | Arch Linux</h3>
+  <h3>Full-Stack Engineer | Arch Linux | Rust</h3>
   <p>
-    Building high-performance web applications with <b>React 19</b>, <b>Next.js</b>, and <b>WebAssembly</b>.
-    <br>Focusing on privacy-first tools and efficient architecture.
+    Building fast web apps with <b>React 19</b>, <b>Next.js</b>, and <b>WebAssembly</b>.
+    <br>I hate bloat. I focus on privacy-first tools and architecture that actually runs efficiently.
   </p>
 
   <br>
 
   <h2>Meme-Creator.app</h2>
-  <b>Creator & Lead Dev</b>
+  <b>Built from scratch</b>
   <br>
-  A progressive web app for digital media creation powered by client-side AI.
+  A PWA for creating content using client-side AI. 
+  <br>No server-side processing, no data tracking. It just works.
   <br><br>
   <a href="https://meme-creator.app">
     <img src="https://img.shields.io/badge/Visit_App-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
@@ -23,7 +24,7 @@
 
   <br><br>
 
-  <h2>Technologies</h2>
+  <h2>The Stack</h2>
   
   <h3>Frontend</h3>
   <p>
@@ -36,8 +37,9 @@
     <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   </p>
 
-  <h3>Backend & Tools</h3>
+  <h3>Backend & Systems</h3>
   <p>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -54,7 +56,7 @@
 
   <br>
 
-<h2>Activity</h2>
+<h2>The Grind</h2>
   <p>
     <a href="https://github.com/Brian-Zavala">
       <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" />
@@ -65,7 +67,7 @@
   <br>
 
   <p>
-    <b>System:</b> Arch Linux + Hyprland
+    <b>Daily Driver:</b> Arch Linux + Hyprland
     <br>
     <a href="https://github.com/Brian-Zavala/dotfiles">
       <img src="https://img.shields.io/badge/Dotfiles-2e3440?style=for-the-badge&logo=github&logoColor=white" />
