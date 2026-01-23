@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Brian Zavala</h1>
-  <h3>Full-Stack Engineer | Arch Linux | Rust</h3>
+  <h3>Full-Stack Engineer | Systems Architecture | Rust</h3>
   <p>
-    Building fast web apps with <b>React 19</b>, <b>Next.js</b>, and <b>WebAssembly</b>.
-    <br>I hate bloat. I focus on privacy-first tools and architecture that actually runs efficiently.
+    I build software that actually respects the user. 
+    <br>
+    I focus on privacy, efficiency, and keeping architecture clean. I use modern tools to get the job done, but I’m constantly fighting to strip away the overhead and make things run close to the metal.
   </p>
 
   <br>
@@ -11,8 +12,9 @@
   <h2>Meme-Creator.app</h2>
   <b>Built from scratch</b>
   <br>
-  A PWA for creating content using client-side AI. 
-  <br>No server-side processing, no data tracking. It just works.
+  I got tired of slow, ad-riddled tools, so I built a local-first PWA.
+  <br>
+  It runs AI entirely in your browser. No server costs, no data harvesting, no nonsense.
   <br><br>
   <a href="https://meme-creator.app">
     <img src="https://img.shields.io/badge/Visit_App-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
@@ -24,7 +26,7 @@
 
   <br><br>
 
-  <h2>The Stack</h2>
+  <h2>The Toolbox</h2>
   
   <h3>Frontend</h3>
   <p>
@@ -37,7 +39,7 @@
     <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   </p>
 
-  <h3>Backend & Systems</h3>
+  <h3>Backend & Low Level</h3>
   <p>
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
