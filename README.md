@@ -1,33 +1,25 @@
 <div align="center">
   <h1>Brian Zavala</h1>
-  <h3>Full-Stack Engineer | Systems Architecture | Rust</h3>
-  <p>
-    I build software that actually respects the user. 
-    <br>
-    I focus on privacy, efficiency, and keeping architecture clean. I use modern tools to get the job done, but I’m constantly fighting to strip away the overhead and make things run close to the metal.
-  </p>
-
+  <h3>Full-Stack Engineer · Systems Architecture · Low-Level Enthusiast</h3>
   <br>
 
   <h2>Meme-Creator.app</h2>
-  <b>Built from scratch</b>
-  <br>
-  I got tired of slow, ad-riddled tools, so I built a local-first PWA.
-  <br>
-  It runs AI entirely in your browser. No server costs, no data harvesting, no nonsense.
-  <br><br>
+  <p>
+    Local-first PWA that runs AI entirely in your browser. No servers, no data harvesting, no ads.
+    <br>
+    Built it because every existing tool was slow, bloated, or harvesting your data.
+  </p>
   <a href="https://meme-creator.app">
     <img src="https://img.shields.io/badge/Visit_App-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
   <br><br>
-  <code>ONNX Runtime</code> • <code>Web Workers</code> • <code>React 19</code> • <code>Tailwind v4</code>
+  <code>ONNX Runtime</code> · <code>Web Workers</code> · <code>React 19</code> · <code>Tailwind v4</code>
   <br>
-  <b>300+ Users</b> • <b>8m+ Avg Session</b> • <b>12% Bounce Rate</b>
-
+  <b>300+ Users</b> · <b>8m+ Avg Session</b> · <b>12% Bounce Rate</b>
   <br><br>
 
   <h2>The Toolbox</h2>
-  
+
   <h3>Frontend</h3>
   <p>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -39,40 +31,33 @@
     <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   </p>
 
-  <h3>Backend & Low Level</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  </p>
+ <h3>Backend & Low Level</h3>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+</p>
 
-  <h3>Performance & AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
-    <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" />
-  </p>
-
+<h3>Performance & AI</h3>
+<p>
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+</p>
   <br>
 
-<h2>The Grind</h2>
+  <h2>The Grind</h2>
   <p>
     <a href="https://github.com/Brian-Zavala">
       <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Zavala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" />
       <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Zavala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
     </a>
   </p>
-
   <br>
-
   <p>
-    <b>Daily Driver:</b> Arch Linux + Hyprland
-    <br>
-    <a href="https://github.com/Brian-Zavala/dotfiles">
-      <img src="https://img.shields.io/badge/Dotfiles-2e3440?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+    <b>Daily driver:</b> Arch Linux + Hyprland + Neovim
   </p>
 </div>
