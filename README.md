@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>brian zavala</h1>
-  <h3>full-stack engineer specializing in real-time webrtc, local-first pwas, and scalable relational databases.</h3>
+  <h1>Brian Zavala</h1>
+  <h3>Software engineer specializing in real-time webrtc, local-first pwas, and scalable relational databases.</h3>
   <br>
 
   <h2>TherapyAI</h2>
