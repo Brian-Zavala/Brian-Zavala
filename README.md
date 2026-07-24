@@ -4,7 +4,7 @@
 
   <h2>TherapyAI</h2>
   <p>
-    production voice therapy saas handling live webrtc sessions. <br>
+    production voice/text therapy saas handling live webrtc sessions. <br>
     multi-modal ai assistants built on a custom state machine so users never lose context when connections drop.
   </p>
   <a href="https://therapyai.us">
