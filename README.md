@@ -2,18 +2,17 @@
   <h1>Brian Zavala</h1>
   <br>
 
-  <h2>TherapyAI</h2>
+  <h2>Rea</h2>
   <p>
-    production voice/text therapy saas handling live webrtc sessions. <br>
-    multi-modal ai assistants built on a custom state machine so users never lose context when connections drop.
+    This is a voice/text wellness coaching application, clients can speak or text coaches live 24/7 anytime for any mental wellness help they need. <br>
   </p>
-  <a href="https://therapyai.us">
+  <a href="https://getrea.us">
     <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
   <br><br>
   <code>Next.js 15</code> | <code>TypeScript</code> | <code>VAPI</code> | <code>Prisma</code> | <code>Supabase</code>
   <br>
-  100+ active users | multi-tenant stripe billing | live webrtc
+  200+ users | multi-tenant stripe billing | live webrtc
   <br><br>
 
   <h2>Meme-Creator.app</h2>
@@ -27,21 +26,20 @@
   <br><br>
   <code>ONNX Runtime</code> | <code>Web Workers</code> | <code>React 19</code> | <code>Tailwind v4</code>
   <br>
-  300+ users | 8m+ avg session | 12% bounce rate
+  500+ users | 8m+ avg session | 12% bounce rate
   <br><br>
 
   <h2>The Toolbox</h2>
 
-  <h3>frontend & edge</h3>
+  <h3>frontend</h3>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
   </p>
 
-  <h3>backend & databases</h3>
+  <h3>backend</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,10 +52,8 @@
   <h3>systems & architecture</h3>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
   </p>
   <br>
 
@@ -69,7 +65,4 @@
     </a>
   </p>
   <br>
-  <p>
-    daily driver: arch linux + hyprland (omarchy config) + neovim
-  </p>
 </div>
