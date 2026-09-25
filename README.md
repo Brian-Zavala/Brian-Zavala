@@ -4,44 +4,44 @@
 
   <p>
     <a href="https://linkedin.com/in/brian-zavala25"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:brian.zavala25@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:brian.zavala25@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat-square&logo=proton&logoColor=white" alt="ProtonMail" /></a>
   </p>
   <br>
 
   <!-- REA -->
   <h2>Rea</h2>
   <p>
-    Voice and text wellness coaching platform delivering live, real-time client sessions 24/7.<br>
+    Voice and text wellness coaching platform delivering real-time client sessions 24/7.<br>
     Features instant AI session analysis, automated feedback summaries, and encrypted transcript storage.
   </p>
   <p>
     <a href="https://getrea.us">
-      <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Live Site" />
+      <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=pwa&logoColor=white" height="28" alt="Live Site" />
     </a>
   </p>
   <code>Next.js 15</code> | <code>TypeScript</code> | <code>VAPI</code> | <code>Prisma</code> | <code>Supabase</code>
   <br><br>
-  <small>200+ users | Multi-tenant Stripe billing | Live WebRTC</small>
+  <small>200+ Active Users | Multi-Tenant Stripe Billing | Live WebRTC</small>
   <br><br><br>
 
   <!-- MEME CREATOR -->
   <h2>Meme-Creator.app</h2>
   <p>
-    Client-side meme generation and image editor powered by in-browser ML inference.<br>
+    Client-side meme generator and image editor powered by in-browser ML inference.<br>
     Zero server processing, zero runtime inference costs, and completely local-first.
   </p>
   <p>
     <a href="https://meme-creator.app">
-      <img src="https://img.shields.io/badge/Visit_App-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Visit App" />
+      <img src="https://img.shields.io/badge/Visit_App-000000?style=for-the-badge&logo=pwa&logoColor=white" height="28" alt="Visit App" />
     </a>
   </p>
   <code>ONNX Runtime</code> | <code>Web Workers</code> | <code>React 19</code> | <code>Tailwind v4</code>
   <br><br>
-  <small>500+ users | 8m+ avg session | 12% bounce rate</small>
+  <small>500+ Active Users | 8m+ Avg. Session Duration | 12% Bounce Rate</small>
   <br><br><br>
 
   <!-- TOOLBOX -->
-  <h2>The Toolbox</h2>
+  <h2>Technical Stack</h2>
 
   <h3>Frontend</h3>
   <p>
@@ -71,7 +71,7 @@
   <br>
 
   <!-- STATS -->
-  <h2>The Grind</h2>
+  <h2>Activity</h2>
   <p>
     <a href="https://github.com/Brian-Zavala">
       <img 
