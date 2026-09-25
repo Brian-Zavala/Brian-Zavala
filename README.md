@@ -5,6 +5,8 @@
   <h2>Rea</h2>
   <p>
     This is a voice/text wellness coaching application, clients can speak or text coaches live 24/7 anytime for any mental wellness help they need. <br>
+    Clients get AI session analysis for instant feedback on all previous sessions, clients get real time insights and recommendations based on what was talked about. <br>
+    all sessions are stored securely and transcripts are accessible at anytime.
   </p>
   <a href="https://getrea.us">
     <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
@@ -17,8 +19,9 @@
 
   <h2>Meme-Creator.app</h2>
   <p>
-    local-first pwa running ml inference entirely in the browser. <br>
-    no servers, no data harvesting, no inference costs. built because every other tool was cooked.
+    A powerful local non-gated meme creator and editor. <br>
+    local ml inference entirely in the browser. <br>
+    no servers, no data harvesting, no inference costs. 
   </p>
   <a href="https://meme-creator.app">
     <img src="https://img.shields.io/badge/Visit_App-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
