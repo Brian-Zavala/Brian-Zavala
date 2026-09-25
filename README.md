@@ -22,7 +22,7 @@
   </p>
   <p>
     Voice and text wellness coaching platform delivering real-time client sessions 24/7.<br>
-    Features instant AI session analysis, automated feedback summaries, and encrypted transcript storage.
+    Features instant AI session analysis, automated feedback summaries, and secure transcript storage.
   </p>
   <p>
     <a href="https://getrea.us">
