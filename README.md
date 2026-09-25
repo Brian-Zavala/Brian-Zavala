@@ -1,5 +1,12 @@
+<p align="left">
+  <img width="100" src="./flag-united-states-america.jpg" alt="Profile Banner" />
+</p>
+
 <div align="center">
-  <h1>Brian Zavala</h1>
+  <h1 align="center">
+    Brian Zavala<br>
+    <sup><sup><img src="https://img.shields.io/badge/-000000?style=flat&color=EDEDED" width="180" height="3" alt="" /></sup></sup>
+  </h1>
   <p>Full-Stack & Systems Engineer | TypeScript, React, Python, C++, Rust</p>
 
   <p>
@@ -9,7 +16,10 @@
   <br>
 
   <!-- REA -->
-  <h2>Rea</h2>
+  <p align="center">
+    <font size="5"><b>Rea</b></font><br>
+    <sup><sup><img src="https://img.shields.io/badge/-000000?style=flat&color=EDEDED" width="45" height="2" alt="" /></sup></sup>
+  </p>
   <p>
     Voice and text wellness coaching platform delivering real-time client sessions 24/7.<br>
     Features instant AI session analysis, automated feedback summaries, and encrypted transcript storage.
@@ -25,7 +35,10 @@
   <br><br><br>
 
   <!-- MEME CREATOR -->
-  <h2>Meme-Creator.app</h2>
+  <p align="center">
+    <font size="5"><b>Meme-Creator.app</b></font><br>
+    <sup><sup><img src="https://img.shields.io/badge/-000000?style=flat&color=EDEDED" width="165" height="2" alt="" /></sup></sup>
+  </p>
   <p>
     Client-side meme generator and image editor powered by in-browser ML inference.<br>
     Zero server processing, zero runtime inference costs, and completely local-first.
@@ -41,9 +54,12 @@
   <br><br><br>
 
   <!-- TOOLBOX -->
-  <h2>Technical Stack</h2>
+  <p align="center">
+    <font size="5"><b>Technical Stack</b></font><br>
+    <sup><sup><img src="https://img.shields.io/badge/-000000?style=flat&color=EDEDED" width="145" height="2" alt="" /></sup></sup>
+  </p>
 
-  <h3>Frontend</h3>
+  <p><b>Frontend</b></p>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -51,7 +67,7 @@
     <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   </p>
 
-  <h3>Backend</h3>
+  <p><b>Backend</b></p>
   <p>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -61,7 +77,7 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </p>
 
-  <h3>Systems & Architecture</h3>
+  <p><b>Systems & Architecture</b></p>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -71,7 +87,10 @@
   <br>
 
   <!-- STATS -->
-  <h2>Activity</h2>
+  <p align="center">
+    <font size="5"><b>Activity</b></font><br>
+    <sup><sup><img src="https://img.shields.io/badge/-000000?style=flat&color=EDEDED" width="75" height="2" alt="" /></sup></sup>
+  </p>
   <p>
     <a href="https://github.com/Brian-Zavala">
       <img 
